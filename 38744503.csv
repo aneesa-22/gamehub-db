@@ -1,0 +1,341 @@
+name,developer,positive_ratings,negative_ratings,average_playtime,price,category
+Team Fortress Classic,Valve,3318,633,277,3.99,Multi-player
+Day of Defeat,Valve,3416,398,187,3.99,Multi-player
+Deathmatch Classic,Valve,1273,267,258,3.99,Multi-player
+Ricochet,Valve,2758,684,175,3.99,Multi-player
+Portal,Valve,51801,1080,288,7.19,Single-player
+Left 4 Dead,Valve,17951,948,897,7.19,Single and Multi-player
+Left 4 Dead 2,Valve,251789,8418,1615,7.19,Single and Multi-player
+Alien Swarm,Valve,17435,941,371,0.0,Single and Multi-player
+Killing Floor,Tripwire Interactive,53710,2649,1328,14.99,Single and Multi-player
+Quake III Arena,id Software,1362,66,123,12.99,Single and Multi-player
+Wolfenstein 3D,id Software,1773,87,69,2.99,Single-player
+Ultimate Doom,id Software,3705,257,125,3.99,Single-player
+Final DOOM,id Software,573,82,120,3.99,Single-player
+DOOM II,id Software,2517,182,90,3.99,Single and Multi-player
+QUAKE,id Software,2618,136,167,3.99,Single and Multi-player
+QUAKE II,id Software,1369,107,291,3.99,Single and Multi-player
+Shadowgrounds,Frozenbyte,973,248,186,3.99,Single-player
+Alpha Prime,Black Element,610,523,0,2.99,Single-player
+Painkiller Overdose,Mindware Studios,429,137,270,4.49,Single and Multi-player
+Sniper Elite,Rebellion,1181,377,262,5.59,Single-player
+Aliens versus Predator Classic 2000,Rebellion,1434,219,20,3.99,Single and Multi-player
+Advent Rising,GlyphX Games,260,71,0,7.19,Single-player
+BloodRayne,Terminal Reality,369,110,111,6.99,Single-player
+BloodRayne 2,Terminal Reality,259,103,771,6.99,Single-player
+Psychonauts,Double Fine Productions,8204,456,491,6.99,Single-player
+Just Cause,Avalanche Studios,1732,846,20,4.99,Single-player
+Rogue Trooper,Rebellion,248,15,0,6.99,Single and Multi-player
+NecroVision,The Farm 51,539,270,113,3.99,Single and Multi-player
+Spear of Destiny,id Software,200,36,0,2.49,Single-player
+Return to Castle Wolfenstein,Gray Matter Studios,3084,276,32,3.99,Single and Multi-player
+DOOM 3,id Software,2633,376,362,0.0,Single and Multi-player
+HeXen II,Raven Software,173,39,10,2.99,Single and Multi-player
+Master Levels for Doom II,id Software,310,69,7,0.0,Single-player
+Commander Keen,id Software,737,51,145,2.99,Single-player
+RAGE,id Software,9394,2882,559,7.99,Single and Multi-player
+Saints Row 2,Volition,9442,2881,322,9.99,Single-player
+Star Raiders,Incinerator Studios,5,24,0,6.99,Single-player
+Postal III,Trashmasters,641,1101,411,8.99,Single-player
+Shadowgrounds Survivor,Frozenbyte,328,239,355,6.99,Single-player
+Grand Theft Auto III,Rockstar Games,4718,750,98,5.99,Single-player
+Manhunt,Rockstar North,816,433,99,5.99,Single-player
+Max Payne,Remedy Entertainment,3926,435,316,5.99,Single-player
+Grand Theft Auto,Rockstar North,199,30,7,0.0,Single-player
+Grand Theft Auto 2,Rockstar North,184,17,3,0.0,Single-player
+Exodus from the Earth ,Parallax Arts Studio,51,44,0,10.99,Single and Multi-player
+Velvet Assassin,Replay Studios,1219,832,9,1.69,Single-player
+Legendary,Spark Unlimited,1095,1000,90,1.69,Single-player
+Crysis,Crytek,6075,1277,313,9.99,Single-player
+Dead Space,EA Redwood Shores,9136,1049,295,14.99,Single-player
+Rogue Warrior,Rebellion,466,240,29,3.99,Single and Multi-player
+Lugaru HD,Wolfire Games,321,98,13,7.99,Single-player
+Dark Sector,Digital Extremes,337,96,0,6.99,Single and Multi-player
+Tunnel Rats,Replay Studios,11,19,0,15.99,Single-player
+Delta Force Xtreme 2,NovaLogic,50,36,0,14.99,Single and Multi-player
+Delta Force,NovaLogic,220,24,0,3.99,Single-player
+Delta Force 2,NovaLogic,166,26,0,3.99,Single and Multi-player
+Delta Force Land Warrior,NovaLogic,121,11,0,6.99,Single and Multi-player
+Pound of Ground,Centauri Production,78,49,0,8.99,Single-player
+Ninja Blade,FromSoftware,128,72,0,6.99,Single-player
+Darkest of Days,8monkey Labs,158,63,0,14.99,Single-player
+MDK,Shiny Entertainment,138,45,0,6.99,Single-player
+MDK 2,BioWare Corporation,95,19,0,6.99,Single-player
+AquaNox,THQ Nordic,151,57,0,4.49,Single and Multi-player
+Chaser,Cauldron,611,226,0,4.49,Single and Multi-player
+Coniclysm,ZoopTEK,14,15,0,3.99,Single-player
+Front Mission Evolved,Double Helix Games,481,310,312,7.99,Single and Multi-player
+Escape From Paradise ,Gogii,2,3,0,6.99,Single-player
+Escape From Paradise 2,Gogiii,2,0,0,6.99,Single-player
+Duke Nukem Forever,Gearbox Software,4433,2243,434,14.99,Single and Multi-player
+Painkiller Redemption,Eggtooth Team,206,196,28,4.49,Single-player
+The Darkness II,Digital Extremes,11992,1234,191,19.99,Single-player
+Nexuiz,IllFonic,167,105,9,7.99,Single and Multi-player
+Renegade Ops,Avalanche Studios,1773,297,18,9.99,Single and Multi-player
+Scary Girl,TikGames,36,24,31,4.99,Single-player
+Max Payne 3,Rockstar Studios,21581,4374,464,14.99,Single and Multi-player
+Jet Set Radio,Blit Software,3398,631,207,5.59,Single-player
+Sacred Citadel,Southend,645,287,220,7.99,Single and Multi-player
+Cannon Fodder 3,Burut CT,57,56,0,10.99,Single-player
+MDK2 HD,Overhaul Games,49,43,0,10.99,Single-player
+Sonic Adventure 2,SEGA,4676,913,805,5.99,Single and Multi-player
+ETHER VAPOR Remaster,Edelweiss,188,55,71,5.59,Single-player
+THE KING OF FIGHTERS XIII STEAM EDITION,SNK CORPORATION,4300,537,451,14.99,Single and Multi-player
+Shadow Warrior Classic Redux,General Arcade,1789,151,124,6.99,Single-player
+ShootMania Storm,Nadeo,648,101,507,16.99,Multi-player
+Killing Floor 2,Tripwire Interactive,60917,8354,2967,19.99,Single and Multi-player
+The Apogee Throwback Pack,Interceptor Entertainment,198,20,37,6.99,Single-player
+Samurai Gunn,Teknopants,337,21,0,11.99,Single-player
+Getting Over It with Bennett Foddy,Bennett Foddy,10964,2913,169,5.79,Single-player
+Shadow Man,Acclaim Studios Teeside,409,55,48,3.99,Single-player
+Enemy Front,CI Games,2213,1307,116,15.99,Single and Multi-player
+Cold War,Mindware Studios,117,68,0,4.49,Single-player
+Dead Rising 3 Apocalypse Edition,Capcom Game Studio Vancouver,7251,3060,596,24.99,Single and Multi-player
+Guilty Gear Isuka,Arc System Works,148,145,147,6.99,Single-player
+Gun Metal,Rage Software,557,170,213,2.09,Single-player
+Hyper Fighters,Team 6 Studios,96,313,0,2.09,Single-player
+The Evil Within,Tango Gameworks,10581,2363,635,14.99,Single-player
+Sniper Art of Victory,CI Games,324,775,7,1.99,Single-player
+Descent,Parallax,263,10,0,7.19,Single and Multi-player
+Descent 2,Parallax,66,6,0,6.99,Single and Multi-player
+Descent 3,Outrage Entertainment,33,15,0,6.99,Single and Multi-player
+Freespace 2,Volition Inc,162,61,0,6.99,Single and Multi-player
+Spaceforce Homeworld,Dreamatrix,2,4,0,3.99,Single-player
+BloodRayne Betrayal,Abstraction Games,459,276,242,6.99,Single-player
+Desert Gunner,Digital Fusion,29,38,0,1.99,Single-player
+Ubersoldier II,Burut CT,253,95,0,6.99,Single-player
+Eurofighter Typhoon,Rage Software,46,148,0,2.09,Single-player
+Incoming Forces,Rage Software,155,125,204,2.09,Single-player
+Metro 2033 Redux,4A Games,28179,7313,434,14.99,Single-player
+MechRunner,Spark Plug Games,11,9,0,5.19,Single-player
+El Matador,Plastic Reality Technologies,140,72,0,2.79,Single-player
+Realms of the Haunting,Gremlin Interactive,287,97,32,2.09,Single-player
+Neon Shadow,Tasty Poison,46,10,0,3.99,Single and Multi-player
+Monster Challenge Circus,Freegamer,6,22,0,3.99,Single-player
+Zombie Army Trilogy,Rebellion,8472,1330,400,29.99,Single-player
+Chernobyl Commando,Silden,95,352,0,6.99,Single-player
+Manhunter,Silden,229,518,110,3.99,Single-player
+Suicide Guy,Fabio Ferrara,498,90,0,3.99,Single-player
+Bloodbath,Freedom Factory,6,29,0,10.99,Single and Multi-player
+Blue Estate The Game,HE SAW,1068,104,0,9.99,Single-player
+Platypus,Idigicon,280,28,260,4.99,Single-player
+Nux,Idigicon,176,273,170,4.99,Single-player
+Street Fighter V,Capcom,8300,8498,793,15.99,Single and Multi-player
+The Stalin Subway,Orion Games,199,169,0,2.79,Single-player
+Battlezone Gold Edition,Rebellion,161,49,107,29.99,Single-player
+Alpha Zylon,Team 6 Studios,82,51,0,3.99,Single-player
+Double Dragon Trilogy,DotEmu,310,219,0,4.79,Single and Multi-player
+Attractio,GameCoder Studios,52,64,0,14.99,Single-player
+Dusk 12,Orion Games,50,59,0,2.79,Single-player
+Platypus II,Idigicon,319,203,220,4.99,Single-player
+UNLOVED,BlueEagle Productions,534,153,114,6.99,Single and Multi-player
+Battle Of Europe,Maus Software,10,4,0,6.99,Single-player
+DRAGON BALL XENOVERSE,DIMPS,12601,1680,2575,31.99,Single and Multi-player
+NAM,TNT Team,144,46,6,4.99,Single-player
+Down To One,Gadget Games,868,1357,206,0.79,Multi-player
+Bet On Soldier,Kylotonn,99,44,42,5.59,Single-player
+Velocity 2X,FuturLab,55,31,346,14.99,Single-player
+Dead Island Retro Revenge,Empty Clip Studios,91,78,339,3.99,Single-player
+Headlander,Double Fine Productions,575,63,0,14.99,Single-player
+GUILTY GEAR XX ACCENT CORE PLUS R,Arc System Works,658,65,0,10.99,Single and Multi-player
+Aces of the Luftwaffe,HandyGames,45,24,0,3.99,Single-player
+Terminal Velocity,Terminal Reality,42,3,0,4.99,Single-player
+XIIZEAL,TRIANGLE SERVICE,27,4,0,8.99,Single-player
+Spaceman Sparkles 2,tjern,47,11,0,1.99,Single-player
+METAL SLUG,DotEmu,1169,128,501,5.59,Single and Multi-player
+Orc Slayer,Cooply Solutions,8,7,0,3.99,Single-player
+World War II GI,TNT Team,20,17,0,4.99,Single-player
+DARIUSBURST Chronicle Saviours,Pyramid,375,65,31,29.99,Single-player
+ESCHATOS,Qute,81,4,0,10.99,Single-player
+DELTAZEAL,TRIANGLE SERVICE,32,4,0,8.99,Single-player
+DOOM,id Software,68536,5156,751,14.99,Single and Multi-player
+Trials on Tatooine,ILMxLAB,949,227,169,0.0,Single-player
+Dead Island Definitive Edition,Techland,3513,1415,1725,11.99,Single and Multi-player
+Shadow Complex Remastered,ChAIR Entertainment,542,100,243,10.99,Single-player
+Vampire of the Sands,Homph,58,23,277,3.99,Single-player
+Dad Beat Dads,Stellar Jay Studios,6,0,0,4.79,Single-player
+Circuit Breakers,Triverske,48,30,0,4.99,Single-player
+Necromonads,Gamesare,19,15,0,2.79,Single-player
+Battleborn,Gearbox Software,5692,3494,652,0.0,Single and Multi-player
+Mass Destruction,NMS Software,5,4,0,3.99,Single-player
+Prospekt,Richard Seabrook,707,473,0,7.5,Single-player
+Zenohell,Team Grybanser Fox,43,20,0,6.99,Single-player
+SkyScrappers,Ground Shatter,6,2,0,7.99,Single-player
+Dishonored 2,Arkane Studios,21022,5059,1117,29.99,Single-player
+Men of Valor,2015,157,71,0,8.99,Single and Multi-player
+Hybrid Wars,Extreme Developers,112,58,0,5.19,Single and Multi-player
+SENRAN KAGURA SHINOVI VERSUS,Tamsoft,2991,160,1228,14.99,Single and Multi-player
+Pang Adventures,DotEmu,131,30,2,6.99,Single and Multi-player
+Earthfall,Holospark,1171,592,85,23.79,Single and Multi-player
+Revolt,Explosive LLC,5,6,0,3.99,Single-player
+FALL,Northbrain,7,3,0,4.79,Single-player
+Furi,The Game Bakers,4199,474,535,14.99,Single-player
+ScudBuster,HyperKat Games,2,1,0,3.99,Single and Multi-player
+Seraph,Dreadbit,378,70,0,9.99,Single-player
+WinKings,Lemondo Games,11,5,0,3.99,Single-player
+MINUS ZERO,TRIANGLE SERVICE,7,4,0,1.59,Single-player
+Deadhunt,REL Games,66,6,0,3.99,Single-player
+Banzai Escape,XenoAisam,80,33,0,4.79,Single-player
+Assault Suit Leynos,Dracue Software,52,22,0,19.99,Single-player
+Spaceman Sparkles 3,tjern,24,2,0,3.99,Single-player
+Audio Arena,Skydome Studios,20,3,0,4.99,Single-player
+Super Kaiju,Directive Games Limited,26,2,0,14.99,Single-player
+EXZEAL,TRIANGLE SERVICE,7,0,0,8.99,Single-player
+TRIZEAL Remix,TRIANGLE SERVICE,15,0,0,8.99,Single-player
+She Wants Me Dead,Hello There AB,68,15,253,5.59,Single-player
+Quantum Break,Remedy Entertainment,10249,1929,331,29.99,Single-player
+TOKYO WARFARE,Pablo Vidaurre Sanz,217,50,0,10.99,Single-player
+Aftercharge,Chainsawesome Games,131,29,0,14.99,Multi-player
+Anthelion,Rovio,3,2,0,9.99,Single-player
+Balloon Chair Death Match,Climax Studios Ltd,41,13,0,2.89,Single-player
+The Path of Greatest Resistance,RealityRig,41,9,0,2.79,Single-player
+SENRAN KAGURA ESTIVAL VERSUS,Tamsoft,2837,127,1993,24.99,Single and Multi-player
+DEXED,Ninja Theory,33,6,0,6.99,Single-player
+Quick Draw,Playing With Matches,22,12,0,6.99,Single-player
+Oh My Godheads,Titutitech,10,2,0,10.99,Single and Multi-player
+Unruly Ghouls,Machete Games LLC,14,0,0,3.99,Single-player
+Containment Initiative,Gwyn Games,74,19,0,6.99,Single and Multi-player
+NEON Ultra,Pixelbark Games,30,3,0,2.99,Single-player
+Twixel,Caesoose Studios,13,2,0,1.69,Single-player
+Robot Incursion,MobileFusion Apps Ltd,1,1,0,7.5,Single-player
+ShowdownVR,Frontseat Studio,4,3,0,3.99,Single-player
+Tornuffalo,RealityRig,39,3,0,0.79,Single-player
+Die for the Empire,NedoStudio,5,15,273,0.79,Single-player
+Damned Cold,Unlikely Rogue,5,0,0,3.99,Single-player
+Driftwatch VR,Sevenedge Interactive Media,7,11,3,1.99,Single-player
+Apokalypsis,Quantum Entanglement Games,16,17,356,1.59,Single-player
+Scribble Ships,Slothzilla Games,18,1,0,1.69,Single-player
+Leviathan Starblade,Drahcir,23,16,0,1.99,Single-player
+Steel Empire,Mebius,16,3,0,11.39,Single-player
+Adventuring Gentleman,Ernests Klavins,9,5,6,0.79,Single-player
+Blade Strangers,Studio Saizensen,61,24,20,30.99,Single and Multi-player
+Twisted,Games by Brundle,1,2,0,6.99,Single-player
+Atomic 79,Get Color Games,69,3,0,2.89,Single-player
+Think of the Children,Jammed Up Studios,52,34,55,6.99,Single-player
+Killer Instinct,Iron Galaxy,1301,175,203,29.99,Single and Multi-player
+Remnith,Chronish Games,18,4,0,6.99,Single-player
+GridVR,iPOL,0,1,0,1.99,Single-player
+BlazBlue Centralfiction,Arc System Works,2136,232,2910,29.99,Single and Multi-player
+Street Fighter 30th Anniversary Collection,Digital Eclipse,442,304,0,32.99,Single and Multi-player
+Jelly in the sky,Zolden Games,61,56,0,4.79,Single-player
+Neon8,GameDevCoop,1,2,0,2.09,Single-player
+Attack of the Bugs,Empty Clip Studios,33,3,0,5.79,Single-player
+Lament,Radcroc,11,4,0,0.79,Single-player
+Ninja Shodown,Bitmap Bureau,11,1,0,9.99,Single and Multi-player
+Spark the Electric Jester,Feperd Games,296,30,0,5.79,Single-player
+Meganoid,Orangepixel,5,4,0,6.19,Single-player
+Splinter Zone,MOKKOGRAD,13,0,0,3.49,Single-player
+Mega Overload VR,Subdream Studios,29,1,0,10.99,Single and Multi-player
+Deadbeat Heroes,Deadbeat Productions,15,2,0,10.99,Single and Multi-player
+Virush,Arcturus,9,2,0,4.79,Single-player
+Slug Blast,CASGames,7,2,210,0.79,Single-player
+Evil Glitch,Agar3s,27,2,302,1.99,Single-player
+War Tech Fighters,Drakkar Dev,168,42,0,15.49,Single-player
+Nocturnal Hunt,Wolf Pack,40,13,0,4.79,Single-player
+Mortal Blitz,Skonec Entertainment,36,9,0,14.99,Single-player
+Damascus Gear Operation Tokyo HD,Arc System Works,9,13,0,10.99,Single-player
+Darkest Wave,Duckman Army Games,2,0,0,3.99,Single-player
+Rival Megagun,Spacewave Software,35,4,0,11.39,Single and Multi-player
+Xenoslaive Overdrive,EVXIO,4,1,0,1.69,Single-player
+Never Not Shooting,Hand Cannon Games,1,0,0,2.79,Single and Multi-player
+Mayhem Above,Spinal Games,7,1,0,5.19,Single-player
+Mysterious Adventure of Michael,HUNTERS,1,1,0,1.69,Single-player
+DRAGON BALL FighterZ,Arc System Works,10441,2264,3020,44.99,Single and Multi-player
+BoxMaker,Silver Moon Internet,26,30,0,4.79,Single-player
+Disassembled,Reversed Interactive,3,0,0,4.79,Single-player
+Call Me Skyfish,Gerald David Becker,3,5,0,0.0,Single-player
+Judge Dredd 95,Probe Software,3,3,0,4.79,Single-player
+SiegeVR,Sixense Studios,7,1,0,3.99,Single and Multi-player
+Triton Wing,Alien Mind,1,1,0,2.89,Single-player
+SENRAN KAGURA Peach Beach Splash,Tamsoft,1783,647,0,24.99,Single-player
+The Legend of the Dragonflame High School,HUNTERS,4,1,0,1.69,Single-player
+Monster partner,yang1zhi,12,7,0,1.59,Single-player
+Super Bomberman R,Konami Digital Entertainment,80,84,0,34.99,Single and Multi-player
+Ben 10,Torus Games,40,7,0,15.49,Single-player
+Damascus Gear Operation Osaka HD Edition,Arc System Works,9,4,0,15.49,Single-player
+Sniper Rust VR,Zatun Game Studio,2,4,0,7.19,Single-player
+BlowOut,Terminal Reality,0,1,0,5.19,Single-player
+ELE BLAZE,Pixel Guy,1,1,0,2.89,Single-player
+Last Toon Standing,marutigames,13,6,0,3.99,Single-player
+Hyperide VR,Kool2Play,1,3,0,5.79,Single-player
+Cyber Arena,Umbriel Studio,0,3,0,9.29,Single-player
+Moose Invasion,Daniel Meredith,6,1,0,0.0,Single-player
+Rage Room,Lockem Reality Inc,9,7,0,11.99,Single-player
+The Resistance,Barty Games,5,5,0,0.79,Single-player
+Regenesis Arcade,Hyperbook Studio,16,5,0,5.79,Single-player
+Metal Soldiers 2,Play365,11,5,0,0.79,Single-player
+Drake of the 99 Dragons,Idol FX,21,12,7,5.19,Single-player
+THE BOX VR,NAKAMA VR GAMES,5,2,0,7.19,Single-player
+Disassembly Line,Bumfuzzled Gibbons,0,2,0,3.99,Single and Multi-player
+Battle for Mountain Throne,Random Bird games,0,1,0,5.79,Single-player
+RocketGirl,SoftwareByEugene LLC,5,1,0,3.99,Single-player
+The Little War,Hexagons Studio,20,9,0,4.79,Multi-player
+YumeCore,takayakata,88,3,0,3.99,Single-player
+Fisherones,Glass Bubble Software,7,3,0,3.99,Single-player
+Entertainment Hero,Windzen,1,1,0,1.69,Single-player
+Spacepowers,Wonderbox Games,1,3,0,2.89,Single-player
+Mystical,Infogrames,1,6,0,3.99,Single-player
+Stickman Fighting,Real Fighting,1,3,0,2.89,Single-player
+The Last Operator,Mean Mutt Interactive,12,6,0,11.39,Single-player
+Gulman 5,Aleksandr Serzhantov,36,4,0,4.79,Single-player
+Project Rampage VR,Sticky Studios,44,15,0,0.0,Single-player
+Monsters Attack,Stem Tech,3,6,0,0.79,Single-player
+Sky Hawk,Gamenesis,0,3,0,2.09,Single-player
+Escape From Tethys,Whimsical,29,7,0,3.99,Single-player
+Floor By Floor,AA Games,3,0,0,0.0,Single-player
+Metis One,Actuator Games,3,0,0,5.79,Single and Multi-player
+Sniper Squad Mission,Real Fighting,3,11,0,2.89,Single-player
+Dinosaur Hunter,VDimension,3,1,0,2.09,Single-player
+Scary Maze,Wonder Cult,5,6,0,0.79,Single-player
+Heroes Of The Offworld Arena,Real Fighting,2,2,0,3.99,Single-player
+HotFloor,David Mulder,15,2,0,3.99,Single-player
+Dark Days of Horror,Alexander Casha,1,3,0,4.79,Single-player
+Hallo Spaceboy,Zolden Games,6,1,0,1.99,Single-player
+Lands Of The Lost,Night Owl Gaming LLC,1,0,0,3.99,Single-player
+FIGHTING EX LAYER,ARIKA,164,29,0,30.99,Single and Multi-player
+Wild West VR,VironIT,7,4,0,0.0,Single-player
+Gravity Wars,Black Potion,7,1,0,3.99,Single and Multi-player
+Rage of the Pumpkins,HitMaker Studio,1,2,0,0.79,Single-player
+Unbroken Warrior,Real Fighting,1,1,0,3.99,Single-player
+Galencia,Jason Aldred,21,0,0,2.09,Single-player
+PINPIN BALLBALL,KADOKAWA CORPORATION,6,2,0,0.0,Single-player
+Devil Engine,Protoculture Games,47,2,0,15.49,Single-player
+Full Metal Renegade,Action Portal,2,6,0,5.19,Single-player
+Death Race VR,Donteco,4,2,0,3.99,Single-player
+Aim Master,Sensitivity Elf,10,4,0,2.09,Single-player
+Polygone,Green Pepperoni Software LLC,5,0,0,1.69,Single-player
+Rocket Swords,Michael Crabbs,3,1,0,0.0,Single-player
+Conjure Strike,The Strike Team,1,2,0,11.39,Multi-player
+Combo Jumper,Veathen Games,3,0,0,7.19,Single-player
+Criminal Pursuit Force,Bleeding Edge Studio,4,8,0,3.99,Single-player
+Rapid Fire,3D FACTORY,14,0,0,0.0,Single-player
+Thunder Kid,Renegade Sector Games,15,0,0,5.79,Single-player
+Zombie Builder Defense,NOHAM Games,96,15,0,1.69,Single and Multi-player
+RPGGAME,RPGGAME,5,0,0,0.0,Single-player
+Puppet Blaster,Mad Gnolas,12,0,0,0.0,Single-player
+Super Potato Bruh,DaFluffyPotato,7,1,0,2.89,Single-player
+Surrogate,Quiet Storm,1,0,0,5.79,Single-player
+IScream,Vanhees Dean,3,0,0,3.99,Single-player
+ROGO,Happy Snake,6,0,0,1.69,Single-player
+Special Counter Force Attack,Bleeding Edge Studio,7,5,0,3.99,Single-player
+FPS Training,Drago Software,27,12,0,3.99,Single-player
+Dick Wilde 2,Bolverk Games,11,1,0,15.99,Single and Multi-player
+METAL SLUG XX,SNK CORPORATION,70,69,0,15.49,Single and Multi-player
+Raid on the Ruhr,Immersive VR Education Ltd,3,0,0,4.79,Single-player
+Shadow Uprising,Amber Eye Studio,17,0,0,15.49,Single-player
+Cortex,Milan Toth,5,0,0,0.0,Single-player
+Psyvariar Delta,CITY CONNECTION,15,1,0,23.79,Single-player
+BLASTER LiLO,Fabio Cardini,1,0,0,1.99,Single-player
+Freefall 3050AD,Total ArKade Software,0,1,0,1.99,Single-player
+time of the zombies,kessels game studio,5,5,0,2.09,Single-player
+Brawl,Milan Toth,6,0,0,0.0,Single-player
+AntiPodal,Liam Dehaudt,5,0,0,1.69,Single-player
+Super Nitrous Zoomer,Virtual Bridgeworks,0,1,0,3.99,Single-player
+Spattle Cats,Virtual Bridgeworks,0,2,0,3.99,Single-player
+222,David Mulder,4,4,0,1.69,Single-player
+Shop Battle,stariy8419,1,0,0,0.79,Single-player
+Bears in Tanks,Dragonside Studios,1,0,0,0.79,Multi-player
+Seven Bullets Zombie Apocalypse,Skull Box Games,13,0,0,0.79,Single-player
+BUTCHERBOX,David Mulder,4,0,0,0.79,Single-player
+Die Already,stariy8419,1,0,0,0.79,Single-player
+Lover Bands,Paper Fan Games,5,1,0,1.69,Multi-player

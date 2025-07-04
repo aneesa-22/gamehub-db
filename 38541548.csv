@@ -1,0 +1,804 @@
+game_id,title,developer,release_year
+1,Cybernetic Uprising 14,Studio J,2017
+2,Shadow Legends 10,Studio D,1997
+3,Mystery Quest 15,Studio D,2004
+4,Skyward Voyage 3,Studio A,2007
+5,Cybernetic Uprising 5,Studio E,2005
+6,Frozen Throne 1,Studio J,1999
+7,Island of Secrets 10,Studio I,2003
+8,Urban Mysteries 13,Studio H,1992
+9,Ocean's Guardian 2,Studio K,2018
+10,Fantasy World 15,Studio F,2019
+11,Frozen Throne 1,Studio E,1999
+12,Urban Mysteries 4,Studio D,2018
+13,Mystery Quest 9,Studio H,1992
+14,Starlight Odyssey 19,Studio E,2016
+15,Shadow Legends 7,Studio E,1990
+16,Shadow Legends 17,Studio E,2003
+17,Skyward Voyage 12,Studio J,2004
+18,Urban Mysteries 14,Studio E,2004
+19,Island of Secrets 2,Studio J,2007
+20,Skyward Voyage 7,Studio E,1988
+21,Ocean's Guardian 6,Studio E,1989
+22,Epic Journey 3,Studio G,1990
+23,Mystery Quest 13,Studio G,2016
+24,Island of Secrets 8,Studio K,2017
+25,Skyward Voyage 9,Studio A,2018
+26,Epic Journey 1,Studio E,2013
+27,Frozen Throne 6,Studio F,1992
+28,Game Adventure 15,Studio G,2010
+29,Space Odyssey 7,Studio A,2009
+30,Shadow Legends 14,Studio J,1990
+31,Mystery Quest 4,Studio D,2006
+32,Skyward Voyage 11,Studio E,1981
+33,Fantasy World 12,Studio H,1993
+34,Desert Dynasty 1,Studio I,2000
+35,Starlight Odyssey 14,Studio C,1992
+36,Mountain Myth 18,Studio K,1993
+37,Fantasy World 17,Studio H,2016
+38,Mystery Quest 16,Studio D,1995
+39,Urban Mysteries 9,Studio I,1996
+40,Ocean's Guardian 6,Studio H,2004
+41,Space Odyssey 5,Studio K,1997
+42,Ocean's Guardian 18,Studio D,2011
+43,Island of Secrets 17,Studio B,2008
+44,Frozen Throne 10,Studio F,2004
+45,Fantasy World 19,Studio F,1998
+46,Mountain Myth 5,Studio I,1993
+47,Frozen Throne 15,Studio J,1989
+48,Desert Dynasty 1,Studio J,2008
+49,Space Odyssey 9,Studio D,1993
+50,Game Adventure 20,Studio J,1985
+51,Urban Mysteries 19,Studio G,2015
+52,Frozen Throne 1,Studio J,1983
+53,Mountain Myth 1,Studio B,1998
+54,Desert Dynasty 1,Studio D,1996
+55,Skyward Voyage 7,Studio I,2006
+56,Cybernetic Uprising 8,Studio J,1982
+57,Starlight Odyssey 15,Studio A,2018
+58,Ocean's Guardian 7,Studio D,2015
+59,Skyward Voyage 1,Studio G,1999
+60,Cybernetic Uprising 5,Studio B,1990
+61,Space Odyssey 16,Studio I,2012
+62,Game Adventure 8,Studio H,2000
+63,Shadow Legends 8,Studio D,2018
+64,Frozen Throne 14,Studio A,2003
+65,Urban Mysteries 20,Studio K,1996
+66,Fantasy World 3,Studio H,1999
+67,Cybernetic Uprising 15,Studio J,1997
+68,Epic Journey 7,Studio J,1989
+69,Frozen Throne 20,Studio D,2014
+70,Shadow Legends 2,Studio H,2017
+71,Epic Journey 3,Studio D,2006
+72,Frozen Throne 5,Studio C,1986
+73,Island of Secrets 15,Studio A,1994
+74,Space Odyssey 16,Studio A,2006
+75,Urban Mysteries 11,Studio C,1989
+76,Game Adventure 19,Studio K,2008
+77,Ocean's Guardian 19,Studio E,1998
+78,Space Odyssey 19,Studio D,1980
+79,Frozen Throne 15,Studio E,1998
+80,Desert Dynasty 19,Studio E,1999
+81,Cybernetic Uprising 4,Studio G,1985
+82,Skyward Voyage 9,Studio I,2009
+83,Ocean's Guardian 3,Studio K,2018
+84,Desert Dynasty 5,Studio F,1988
+85,Island of Secrets 7,Studio E,2009
+86,Mystery Quest 6,Studio E,2004
+87,Skyward Voyage 16,Studio C,2014
+88,Starlight Odyssey 14,Studio I,2006
+89,Desert Dynasty 12,Studio K,1996
+90,Space Odyssey 8,Studio G,1987
+91,Space Odyssey 11,Studio C,1985
+92,Game Adventure 1,Studio F,2012
+93,Epic Journey 12,Studio B,2010
+94,Mystery Quest 5,Studio F,1989
+95,Cybernetic Uprising 3,Studio F,1993
+96,Urban Mysteries 20,Studio H,1987
+97,Epic Journey 18,Studio J,2017
+98,Epic Journey 15,Studio J,2016
+99,Fantasy World 10,Studio I,2005
+100,Space Odyssey 11,Studio C,1996
+101,Island of Secrets 17,Studio E,2014
+102,Island of Secrets 2,Studio F,1987
+103,Mountain Myth 15,Studio E,2004
+104,Space Odyssey 10,Studio H,2003
+105,Space Odyssey 7,Studio C,1985
+106,Shadow Legends 11,Studio C,2012
+107,Fantasy World 8,Studio D,2003
+108,Urban Mysteries 14,Studio G,2008
+109,Game Adventure 18,Studio F,2017
+110,Ocean's Guardian 2,Studio K,1994
+111,Starlight Odyssey 5,Studio F,1986
+112,Island of Secrets 9,Studio B,2000
+113,Cybernetic Uprising 14,Studio G,1987
+114,Frozen Throne 17,Studio D,2003
+115,Mystery Quest 10,Studio C,2007
+116,Mountain Myth 16,Studio I,2004
+117,Fantasy World 12,Studio H,2006
+118,Starlight Odyssey 13,Studio A,1998
+119,Shadow Legends 19,Studio I,1993
+120,Starlight Odyssey 3,Studio F,1984
+121,Epic Journey 11,Studio F,1993
+122,Ocean's Guardian 3,Studio B,2002
+123,Island of Secrets 19,Studio C,2013
+124,Frozen Throne 11,Studio I,1980
+125,Shadow Legends 18,Studio F,2002
+126,Fantasy World 4,Studio E,1988
+127,Fantasy World 4,Studio C,1986
+128,Skyward Voyage 17,Studio H,2014
+129,Epic Journey 11,Studio C,2008
+130,Mystery Quest 14,Studio I,2003
+131,Cybernetic Uprising 4,Studio I,1984
+132,Game Adventure 9,Studio F,2005
+133,Game Adventure 17,Studio B,2017
+134,Space Odyssey 1,Studio I,1982
+135,Space Odyssey 18,Studio H,2012
+136,Shadow Legends 18,Studio I,1990
+137,Frozen Throne 17,Studio C,2019
+138,Ocean's Guardian 2,Studio G,1996
+139,Mountain Myth 4,Studio B,1981
+140,Fantasy World 8,Studio B,1985
+141,Space Odyssey 4,Studio D,1990
+142,Urban Mysteries 20,Studio F,2018
+143,Ocean's Guardian 17,Studio G,2009
+144,Space Odyssey 20,Studio G,2004
+145,Mountain Myth 2,Studio K,1984
+146,Frozen Throne 19,Studio I,2008
+147,Mountain Myth 3,Studio D,1999
+148,Island of Secrets 5,Studio F,1990
+149,Ocean's Guardian 15,Studio E,1998
+150,Fantasy World 11,Studio J,1995
+151,Skyward Voyage 1,Studio J,1998
+152,Frozen Throne 18,Studio H,1997
+153,Skyward Voyage 9,Studio G,2008
+154,Starlight Odyssey 9,Studio D,1987
+155,Desert Dynasty 2,Studio D,1995
+156,Island of Secrets 4,Studio I,2015
+157,Island of Secrets 3,Studio I,2005
+158,Shadow Legends 9,Studio F,1997
+159,Skyward Voyage 11,Studio B,2006
+160,Desert Dynasty 19,Studio K,2003
+161,Game Adventure 14,Studio K,2018
+162,Island of Secrets 19,Studio C,1985
+163,Ocean's Guardian 8,Studio B,2005
+164,Mountain Myth 17,Studio I,1984
+165,Mystery Quest 15,Studio B,2014
+166,Cybernetic Uprising 10,Studio B,1989
+167,Game Adventure 15,Studio B,2006
+168,Shadow Legends 1,Studio D,2012
+169,Island of Secrets 18,Studio C,1992
+170,Shadow Legends 7,Studio J,1982
+171,Mountain Myth 2,Studio B,2000
+172,Mountain Myth 16,Studio C,2014
+173,Space Odyssey 3,Studio G,2014
+174,Frozen Throne 13,Studio G,1981
+175,Island of Secrets 20,Studio H,1994
+176,Space Odyssey 2,Studio D,1995
+177,Mystery Quest 17,Studio G,2015
+178,Fantasy World 3,Studio B,1983
+179,Skyward Voyage 11,Studio B,2009
+180,Cybernetic Uprising 9,Studio E,2003
+181,Mystery Quest 20,Studio A,2001
+182,Frozen Throne 16,Studio B,2003
+183,Space Odyssey 2,Studio D,2005
+184,Island of Secrets 12,Studio H,2012
+185,Frozen Throne 17,Studio J,1994
+186,Space Odyssey 9,Studio E,1983
+187,Fantasy World 15,Studio K,2004
+188,Cybernetic Uprising 12,Studio D,2013
+189,Desert Dynasty 14,Studio C,1986
+190,Mystery Quest 13,Studio J,1985
+191,Mountain Myth 1,Studio J,1996
+192,Mystery Quest 17,Studio D,1995
+193,Epic Journey 12,Studio K,1990
+194,Shadow Legends 3,Studio I,2018
+195,Epic Journey 15,Studio E,1981
+196,Frozen Throne 5,Studio K,1990
+197,Mountain Myth 12,Studio H,1990
+198,Urban Mysteries 9,Studio C,1981
+199,Frozen Throne 18,Studio E,2011
+200,Cybernetic Uprising 2,Studio C,2004
+character_id,name,health,strength,game_id
+1,Gandalf,177,41,154
+2,Gimli,176,34,109
+3,Legolas,130,27,13
+4,Boromir,87,38,164
+5,Eowyn,175,29,191
+6,Faramir,131,44,83
+7,Legolas,122,35,38
+8,Eowyn,154,22,11
+9,Saruman,173,12,157
+10,Gimli,184,31,196
+11,Theoden,88,22,86
+12,Frodo,199,8,36
+13,Samwise,175,29,101
+14,Frodo,76,24,169
+15,Boromir,188,18,163
+16,Boromir,119,50,105
+17,Legolas,181,44,64
+18,Gimli,140,26,113
+19,Eowyn,69,29,16
+20,Saruman,66,32,91
+21,Elrond,56,22,191
+22,Galadriel,50,48,181
+23,Theoden,85,40,188
+24,Arwen,180,23,73
+25,Saruman,152,11,33
+26,Faramir,54,5,15
+27,Saruman,53,25,144
+28,Gimli,63,15,187
+29,Denethor,52,32,127
+30,Gandalf,180,8,101
+31,Gimli,196,44,93
+32,Legolas,128,21,4
+33,Boromir,69,5,90
+34,Gimli,180,42,154
+35,Galadriel,186,26,178
+36,Boromir,100,48,154
+37,Samwise,159,23,194
+38,Arwen,124,36,20
+39,Gandalf,155,40,105
+40,Aragon,189,50,88
+41,Saruman,119,36,184
+42,Samwise,116,14,182
+43,Elrond,110,7,10
+44,Aragon,148,11,116
+45,Aragon,99,20,196
+46,Gandalf,150,27,71
+47,Boromir,58,32,93
+48,Gandalf,95,11,175
+49,Boromir,181,17,159
+50,Eowyn,85,35,168
+51,Aragon,158,9,180
+52,Theoden,142,37,131
+53,Elrond,158,27,49
+54,Saruman,102,18,25
+55,Samwise,198,40,165
+56,Denethor,133,19,136
+57,Legolas,92,22,154
+58,Faramir,185,48,178
+59,Legolas,102,43,75
+60,Legolas,128,29,165
+61,Frodo,191,50,148
+62,Saruman,152,35,46
+63,Legolas,195,28,133
+64,Gimli,124,10,68
+65,Boromir,143,19,55
+66,Frodo,138,42,51
+67,Legolas,58,30,108
+68,Elrond,55,32,85
+69,Eowyn,101,7,162
+70,Gimli,59,17,106
+71,Arwen,99,47,88
+72,Gandalf,85,25,89
+73,Boromir,80,25,80
+74,Legolas,185,34,180
+75,Elrond,172,48,163
+76,Legolas,141,45,200
+77,Saruman,148,8,119
+78,Legolas,57,33,10
+79,Denethor,147,29,196
+80,Galadriel,171,5,10
+81,Galadriel,139,35,130
+82,Arwen,62,19,11
+83,Theoden,188,18,164
+84,Arwen,126,8,152
+85,Arwen,173,40,167
+86,Frodo,91,14,73
+87,Saruman,79,7,187
+88,Elrond,188,45,123
+89,Faramir,166,15,200
+90,Faramir,177,17,35
+91,Theoden,195,48,82
+92,Samwise,137,38,123
+93,Eowyn,153,43,14
+94,Gandalf,93,23,19
+95,Frodo,121,18,186
+96,Elrond,186,36,9
+97,Frodo,127,30,32
+98,Gimli,124,31,176
+99,Boromir,89,14,2
+100,Denethor,163,46,173
+101,Gandalf,114,25,7
+102,Elrond,100,35,84
+103,Aragon,173,27,28
+104,Eowyn,50,39,87
+105,Faramir,87,22,4
+106,Eowyn,144,20,175
+107,Arwen,173,7,80
+108,Saruman,69,23,200
+109,Faramir,190,10,39
+110,Faramir,62,50,177
+111,Denethor,61,44,103
+112,Galadriel,149,46,129
+113,Gandalf,60,14,65
+114,Elrond,71,5,75
+115,Theoden,193,43,112
+116,Arwen,175,26,2
+117,Eowyn,178,42,82
+118,Theoden,95,11,149
+119,Theoden,97,14,5
+120,Faramir,61,22,27
+121,Faramir,79,30,27
+122,Saruman,175,29,48
+123,Gimli,119,37,86
+124,Gandalf,143,12,30
+125,Aragon,145,28,116
+126,Gimli,128,29,124
+127,Arwen,148,21,155
+128,Frodo,55,16,34
+129,Galadriel,156,27,173
+130,Arwen,96,22,170
+131,Eowyn,87,10,53
+132,Faramir,53,19,112
+133,Boromir,88,16,16
+134,Legolas,127,33,147
+135,Boromir,74,26,125
+136,Denethor,179,11,81
+137,Saruman,136,38,157
+138,Gimli,114,11,6
+139,Gimli,161,23,82
+140,Theoden,104,30,157
+141,Samwise,165,8,43
+142,Elrond,188,14,173
+143,Frodo,167,26,70
+144,Elrond,123,32,133
+145,Saruman,59,49,29
+146,Denethor,71,33,15
+147,Gandalf,147,33,185
+148,Saruman,99,40,88
+149,Faramir,167,12,9
+150,Elrond,140,16,142
+151,Legolas,103,17,52
+152,Gandalf,188,5,88
+153,Eowyn,110,18,74
+154,Aragon,175,25,25
+155,Eowyn,118,32,118
+156,Frodo,99,40,13
+157,Theoden,147,20,70
+158,Gandalf,64,48,130
+159,Saruman,159,8,185
+160,Gandalf,156,29,32
+161,Frodo,176,28,95
+162,Saruman,56,30,57
+163,Gimli,109,47,197
+164,Eowyn,124,33,97
+165,Galadriel,130,47,46
+166,Samwise,198,33,198
+167,Gimli,187,6,178
+168,Eowyn,156,45,152
+169,Boromir,186,37,74
+170,Legolas,152,36,66
+171,Theoden,55,46,113
+172,Saruman,106,37,199
+173,Denethor,95,49,92
+174,Legolas,72,18,13
+175,Legolas,93,23,18
+176,Boromir,55,34,125
+177,Aragon,71,10,189
+178,Galadriel,144,18,24
+179,Eowyn,111,47,151
+180,Theoden,109,25,155
+181,Theoden,71,14,173
+182,Frodo,50,6,155
+183,Samwise,193,41,183
+184,Galadriel,74,13,121
+185,Legolas,59,29,173
+186,Aragon,184,13,103
+187,Samwise,160,48,195
+188,Arwen,190,34,65
+189,Theoden,73,32,197
+190,Samwise,158,19,181
+191,Legolas,60,17,147
+192,Galadriel,93,12,66
+193,Aragon,111,26,118
+194,Elrond,59,34,4
+195,Theoden,156,19,192
+196,Gimli,62,29,30
+197,Arwen,149,45,64
+198,Faramir,101,10,126
+199,Faramir,93,32,27
+200,Aragon,174,32,84
+location_id,name,description,game_id
+1,Mordor,Description of Mordor,195
+2,Fangorn Forest,Description of Fangorn Forest,45
+3,Rohan,Description of Rohan,144
+4,Umbar,Description of Umbar,69
+5,The Misty Mountains,Description of The Misty Mountains,91
+6,Fangorn Forest,Description of Fangorn Forest,34
+7,Moria,Description of Moria,98
+8,Mordor,Description of Mordor,190
+9,The Misty Mountains,Description of The Misty Mountains,60
+10,Umbar,Description of Umbar,15
+11,Rohan,Description of Rohan,146
+12,Isengard,Description of Isengard,36
+13,Isengard,Description of Isengard,115
+14,Umbar,Description of Umbar,189
+15,Mirkwood,Description of Mirkwood,18
+16,The Shire,Description of The Shire,134
+17,Mirkwood,Description of Mirkwood,102
+18,Gondor,Description of Gondor,191
+19,Isengard,Description of Isengard,190
+20,Mordor,Description of Mordor,147
+21,Rivendell,Description of Rivendell,79
+22,Moria,Description of Moria,179
+23,Lothlorien,Description of Lothlorien,163
+24,Rohan,Description of Rohan,199
+25,The Shire,Description of The Shire,88
+26,Mirkwood,Description of Mirkwood,16
+27,Umbar,Description of Umbar,146
+28,Mirkwood,Description of Mirkwood,53
+29,Isengard,Description of Isengard,14
+30,Lothlorien,Description of Lothlorien,31
+31,Moria,Description of Moria,28
+32,Harad,Description of Harad,67
+33,Mirkwood,Description of Mirkwood,199
+34,The Lonely Mountain,Description of The Lonely Mountain,92
+35,The Lonely Mountain,Description of The Lonely Mountain,77
+36,The Shire,Description of The Shire,107
+37,Gondor,Description of Gondor,182
+38,The Lonely Mountain,Description of The Lonely Mountain,180
+39,Lake-town,Description of Lake-town,51
+40,Mirkwood,Description of Mirkwood,198
+41,Umbar,Description of Umbar,108
+42,Lake-town,Description of Lake-town,198
+43,Rohan,Description of Rohan,37
+44,Harad,Description of Harad,88
+45,Umbar,Description of Umbar,174
+46,Rohan,Description of Rohan,20
+47,Fangorn Forest,Description of Fangorn Forest,102
+48,Fangorn Forest,Description of Fangorn Forest,25
+49,The Misty Mountains,Description of The Misty Mountains,11
+50,Umbar,Description of Umbar,33
+51,The Misty Mountains,Description of The Misty Mountains,145
+52,Mordor,Description of Mordor,80
+53,The Lonely Mountain,Description of The Lonely Mountain,53
+54,Gondor,Description of Gondor,49
+55,Rivendell,Description of Rivendell,20
+56,Mordor,Description of Mordor,79
+57,Moria,Description of Moria,172
+58,Isengard,Description of Isengard,14
+59,Umbar,Description of Umbar,31
+60,Rohan,Description of Rohan,12
+61,Mordor,Description of Mordor,192
+62,The Misty Mountains,Description of The Misty Mountains,63
+63,Umbar,Description of Umbar,156
+64,Gondor,Description of Gondor,67
+65,Harad,Description of Harad,198
+66,The Lonely Mountain,Description of The Lonely Mountain,120
+67,Umbar,Description of Umbar,38
+68,Fangorn Forest,Description of Fangorn Forest,134
+69,Isengard,Description of Isengard,119
+70,The Lonely Mountain,Description of The Lonely Mountain,14
+71,Isengard,Description of Isengard,51
+72,Lothlorien,Description of Lothlorien,103
+73,The Shire,Description of The Shire,158
+74,The Misty Mountains,Description of The Misty Mountains,122
+75,The Lonely Mountain,Description of The Lonely Mountain,196
+76,Lake-town,Description of Lake-town,34
+77,Umbar,Description of Umbar,136
+78,Moria,Description of Moria,187
+79,The Lonely Mountain,Description of The Lonely Mountain,34
+80,The Misty Mountains,Description of The Misty Mountains,182
+81,Harad,Description of Harad,195
+82,Rivendell,Description of Rivendell,38
+83,Umbar,Description of Umbar,8
+84,Lake-town,Description of Lake-town,106
+85,The Shire,Description of The Shire,169
+86,Rohan,Description of Rohan,23
+87,Umbar,Description of Umbar,165
+88,Isengard,Description of Isengard,57
+89,Isengard,Description of Isengard,100
+90,Lake-town,Description of Lake-town,143
+91,Harad,Description of Harad,144
+92,Rivendell,Description of Rivendell,80
+93,Fangorn Forest,Description of Fangorn Forest,137
+94,The Misty Mountains,Description of The Misty Mountains,165
+95,The Misty Mountains,Description of The Misty Mountains,52
+96,Lothlorien,Description of Lothlorien,117
+97,Isengard,Description of Isengard,135
+98,The Misty Mountains,Description of The Misty Mountains,79
+99,Gondor,Description of Gondor,179
+100,Isengard,Description of Isengard,39
+101,Mirkwood,Description of Mirkwood,103
+102,Harad,Description of Harad,128
+103,The Lonely Mountain,Description of The Lonely Mountain,181
+104,Rohan,Description of Rohan,138
+105,Harad,Description of Harad,83
+106,Moria,Description of Moria,153
+107,Mirkwood,Description of Mirkwood,16
+108,Harad,Description of Harad,10
+109,Moria,Description of Moria,184
+110,Lothlorien,Description of Lothlorien,122
+111,The Lonely Mountain,Description of The Lonely Mountain,70
+112,Mordor,Description of Mordor,92
+113,The Misty Mountains,Description of The Misty Mountains,174
+114,Umbar,Description of Umbar,167
+115,The Shire,Description of The Shire,124
+116,Gondor,Description of Gondor,130
+117,Isengard,Description of Isengard,172
+118,Rivendell,Description of Rivendell,181
+119,The Misty Mountains,Description of The Misty Mountains,87
+120,Mordor,Description of Mordor,85
+121,Umbar,Description of Umbar,142
+122,Moria,Description of Moria,179
+123,The Lonely Mountain,Description of The Lonely Mountain,118
+124,The Misty Mountains,Description of The Misty Mountains,35
+125,Rivendell,Description of Rivendell,193
+126,Lake-town,Description of Lake-town,164
+127,Mordor,Description of Mordor,117
+128,Mordor,Description of Mordor,128
+129,The Shire,Description of The Shire,19
+130,The Lonely Mountain,Description of The Lonely Mountain,73
+131,Rivendell,Description of Rivendell,198
+132,Moria,Description of Moria,174
+133,Fangorn Forest,Description of Fangorn Forest,189
+134,Gondor,Description of Gondor,105
+135,Lothlorien,Description of Lothlorien,87
+136,The Shire,Description of The Shire,79
+137,Lothlorien,Description of Lothlorien,34
+138,Mordor,Description of Mordor,91
+139,Rivendell,Description of Rivendell,16
+140,Umbar,Description of Umbar,63
+141,Umbar,Description of Umbar,135
+142,Mordor,Description of Mordor,16
+143,Rohan,Description of Rohan,115
+144,Lake-town,Description of Lake-town,52
+145,Rohan,Description of Rohan,107
+146,Mirkwood,Description of Mirkwood,115
+147,Lake-town,Description of Lake-town,60
+148,Mirkwood,Description of Mirkwood,23
+149,The Misty Mountains,Description of The Misty Mountains,190
+150,Rohan,Description of Rohan,42
+151,Fangorn Forest,Description of Fangorn Forest,105
+152,Harad,Description of Harad,91
+153,Fangorn Forest,Description of Fangorn Forest,67
+154,Isengard,Description of Isengard,108
+155,The Misty Mountains,Description of The Misty Mountains,121
+156,Mordor,Description of Mordor,147
+157,Harad,Description of Harad,111
+158,Lothlorien,Description of Lothlorien,98
+159,Umbar,Description of Umbar,182
+160,Moria,Description of Moria,77
+161,Mirkwood,Description of Mirkwood,169
+162,Mordor,Description of Mordor,96
+163,Lake-town,Description of Lake-town,84
+164,Isengard,Description of Isengard,130
+165,Lake-town,Description of Lake-town,42
+166,Fangorn Forest,Description of Fangorn Forest,194
+167,Gondor,Description of Gondor,138
+168,Moria,Description of Moria,61
+169,The Shire,Description of The Shire,76
+170,The Misty Mountains,Description of The Misty Mountains,41
+171,Rohan,Description of Rohan,93
+172,Umbar,Description of Umbar,26
+173,Moria,Description of Moria,141
+174,Rohan,Description of Rohan,190
+175,Isengard,Description of Isengard,73
+176,Mirkwood,Description of Mirkwood,102
+177,Lothlorien,Description of Lothlorien,114
+178,The Misty Mountains,Description of The Misty Mountains,179
+179,Harad,Description of Harad,106
+180,The Misty Mountains,Description of The Misty Mountains,123
+181,Lake-town,Description of Lake-town,174
+182,Harad,Description of Harad,71
+183,Rivendell,Description of Rivendell,196
+184,Mordor,Description of Mordor,18
+185,Gondor,Description of Gondor,146
+186,Lake-town,Description of Lake-town,200
+187,The Lonely Mountain,Description of The Lonely Mountain,136
+188,The Lonely Mountain,Description of The Lonely Mountain,192
+189,The Misty Mountains,Description of The Misty Mountains,84
+190,Harad,Description of Harad,72
+191,Harad,Description of Harad,192
+192,The Shire,Description of The Shire,131
+193,Lothlorien,Description of Lothlorien,98
+194,Lothlorien,Description of Lothlorien,10
+195,Gondor,Description of Gondor,112
+196,Rohan,Description of Rohan,4
+197,Lothlorien,Description of Lothlorien,149
+198,The Shire,Description of The Shire,19
+199,The Lonely Mountain,Description of The Lonely Mountain,149
+200,Rohan,Description of Rohan,69
+item_id,name,type,effect,location_id
+1,Helmet of Insight,Magic,Magic,190
+2,Healing Potion,Defense,Defense,134
+3,Dagger of Betrayal,Healing,Healing,25
+4,Staff of Wisdom,Attack,Attack,191
+5,Dagger of Betrayal,Defense,Defense,49
+6,Shield of Valor,Stealth,Stealth,115
+7,Invisibility Cloak,Magic,Magic,11
+8,Armor of Titans,Stealth,Stealth,138
+9,Dagger of Betrayal,Magic,Magic,27
+10,Boots of Speed,Defense,Defense,192
+11,Staff of Wisdom,Magic,Magic,135
+12,Ring of Power,Magic,Magic,61
+13,Robe of Mystique,Healing,Healing,96
+14,Healing Potion,Defense,Defense,139
+15,Shield of Valor,Defense,Defense,148
+16,Shield of Valor,Defense,Defense,93
+17,Magic Wand,Magic,Magic,45
+18,Ring of Power,Defense,Defense,70
+19,Healing Potion,Attack,Attack,102
+20,Helmet of Insight,Attack,Attack,104
+21,Magic Wand,Healing,Healing,27
+22,Staff of Wisdom,Attack,Attack,163
+23,Dagger of Betrayal,Healing,Healing,80
+24,Staff of Wisdom,Attack,Attack,104
+25,Staff of Wisdom,Defense,Defense,55
+26,Ring of Power,Attack,Attack,117
+27,Battle Axe,Healing,Healing,132
+28,Staff of Wisdom,Healing,Healing,60
+29,Battle Axe,Stealth,Stealth,193
+30,Armor of Titans,Stealth,Stealth,127
+31,Shield of Valor,Magic,Magic,43
+32,Healing Potion,Healing,Healing,145
+33,Staff of Wisdom,Stealth,Stealth,200
+34,Helmet of Insight,Defense,Defense,190
+35,Robe of Mystique,Healing,Healing,197
+36,Magic Wand,Attack,Attack,40
+37,Armor of Titans,Attack,Attack,86
+38,Helmet of Insight,Healing,Healing,34
+39,Battle Axe,Attack,Attack,4
+40,Healing Potion,Stealth,Stealth,144
+41,Ring of Power,Stealth,Stealth,69
+42,Gauntlets of Strength,Attack,Attack,3
+43,Helmet of Insight,Attack,Attack,91
+44,Invisibility Cloak,Magic,Magic,52
+45,Boots of Speed,Stealth,Stealth,54
+46,Magic Wand,Stealth,Stealth,167
+47,Invisibility Cloak,Defense,Defense,38
+48,Battle Axe,Healing,Healing,199
+49,Magic Wand,Stealth,Stealth,2
+50,Robe of Mystique,Attack,Attack,160
+51,Gauntlets of Strength,Healing,Healing,85
+52,Ring of Power,Healing,Healing,66
+53,Sword of Light,Healing,Healing,32
+54,Shield of Valor,Attack,Attack,19
+55,Battle Axe,Magic,Magic,26
+56,Staff of Wisdom,Attack,Attack,32
+57,Ring of Power,Defense,Defense,161
+58,Bow of the Hunter,Healing,Healing,44
+59,Battle Axe,Healing,Healing,107
+60,Shield of Valor,Attack,Attack,65
+61,Armor of Titans,Attack,Attack,147
+62,Magic Wand,Healing,Healing,45
+63,Armor of Titans,Magic,Magic,53
+64,Ring of Power,Defense,Defense,147
+65,Healing Potion,Magic,Magic,56
+66,Bow of the Hunter,Stealth,Stealth,14
+67,Sword of Light,Stealth,Stealth,151
+68,Shield of Valor,Defense,Defense,94
+69,Battle Axe,Healing,Healing,146
+70,Robe of Mystique,Defense,Defense,39
+71,Sword of Light,Attack,Attack,55
+72,Bow of the Hunter,Attack,Attack,157
+73,Boots of Speed,Magic,Magic,142
+74,Boots of Speed,Defense,Defense,128
+75,Armor of Titans,Attack,Attack,84
+76,Sword of Light,Defense,Defense,66
+77,Ring of Power,Stealth,Stealth,122
+78,Boots of Speed,Stealth,Stealth,131
+79,Sword of Light,Healing,Healing,200
+80,Helmet of Insight,Magic,Magic,154
+81,Ring of Power,Attack,Attack,85
+82,Ring of Power,Healing,Healing,128
+83,Sword of Light,Magic,Magic,169
+84,Battle Axe,Healing,Healing,64
+85,Healing Potion,Healing,Healing,113
+86,Magic Wand,Stealth,Stealth,14
+87,Gauntlets of Strength,Healing,Healing,19
+88,Gauntlets of Strength,Magic,Magic,13
+89,Battle Axe,Defense,Defense,127
+90,Invisibility Cloak,Healing,Healing,195
+91,Invisibility Cloak,Stealth,Stealth,53
+92,Bow of the Hunter,Attack,Attack,44
+93,Helmet of Insight,Defense,Defense,128
+94,Sword of Light,Magic,Magic,33
+95,Helmet of Insight,Stealth,Stealth,46
+96,Boots of Speed,Stealth,Stealth,123
+97,Battle Axe,Magic,Magic,36
+98,Staff of Wisdom,Attack,Attack,25
+99,Invisibility Cloak,Healing,Healing,50
+100,Magic Wand,Healing,Healing,125
+101,Armor of Titans,Magic,Magic,1
+102,Staff of Wisdom,Stealth,Stealth,100
+103,Magic Wand,Healing,Healing,167
+104,Robe of Mystique,Stealth,Stealth,101
+105,Helmet of Insight,Attack,Attack,193
+106,Ring of Power,Defense,Defense,68
+107,Invisibility Cloak,Attack,Attack,166
+108,Ring of Power,Stealth,Stealth,52
+109,Ring of Power,Attack,Attack,144
+110,Boots of Speed,Healing,Healing,50
+111,Ring of Power,Attack,Attack,143
+112,Magic Wand,Defense,Defense,139
+113,Magic Wand,Defense,Defense,184
+114,Sword of Light,Magic,Magic,73
+115,Robe of Mystique,Attack,Attack,68
+116,Ring of Power,Defense,Defense,20
+117,Boots of Speed,Stealth,Stealth,44
+118,Armor of Titans,Healing,Healing,168
+119,Shield of Valor,Stealth,Stealth,32
+120,Boots of Speed,Defense,Defense,34
+121,Helmet of Insight,Stealth,Stealth,6
+122,Battle Axe,Defense,Defense,158
+123,Sword of Light,Defense,Defense,165
+124,Staff of Wisdom,Magic,Magic,17
+125,Gauntlets of Strength,Magic,Magic,13
+126,Healing Potion,Stealth,Stealth,191
+127,Boots of Speed,Magic,Magic,49
+128,Dagger of Betrayal,Healing,Healing,15
+129,Invisibility Cloak,Magic,Magic,23
+130,Invisibility Cloak,Magic,Magic,139
+131,Staff of Wisdom,Stealth,Stealth,108
+132,Ring of Power,Defense,Defense,1
+133,Armor of Titans,Attack,Attack,126
+134,Sword of Light,Magic,Magic,110
+135,Bow of the Hunter,Magic,Magic,24
+136,Robe of Mystique,Magic,Magic,195
+137,Sword of Light,Attack,Attack,138
+138,Shield of Valor,Defense,Defense,58
+139,Staff of Wisdom,Attack,Attack,60
+140,Staff of Wisdom,Stealth,Stealth,111
+141,Bow of the Hunter,Stealth,Stealth,83
+142,Ring of Power,Attack,Attack,193
+143,Robe of Mystique,Stealth,Stealth,109
+144,Ring of Power,Healing,Healing,54
+145,Sword of Light,Stealth,Stealth,169
+146,Battle Axe,Magic,Magic,15
+147,Boots of Speed,Healing,Healing,131
+148,Invisibility Cloak,Defense,Defense,51
+149,Invisibility Cloak,Stealth,Stealth,51
+150,Sword of Light,Attack,Attack,5
+151,Helmet of Insight,Magic,Magic,53
+152,Healing Potion,Defense,Defense,68
+153,Battle Axe,Healing,Healing,32
+154,Bow of the Hunter,Magic,Magic,73
+155,Invisibility Cloak,Magic,Magic,153
+156,Bow of the Hunter,Stealth,Stealth,164
+157,Battle Axe,Defense,Defense,198
+158,Staff of Wisdom,Attack,Attack,18
+159,Dagger of Betrayal,Stealth,Stealth,155
+160,Healing Potion,Defense,Defense,155
+161,Dagger of Betrayal,Magic,Magic,69
+162,Helmet of Insight,Magic,Magic,128
+163,Bow of the Hunter,Healing,Healing,80
+164,Armor of Titans,Magic,Magic,167
+165,Armor of Titans,Attack,Attack,86
+166,Gauntlets of Strength,Attack,Attack,184
+167,Healing Potion,Stealth,Stealth,63
+168,Bow of the Hunter,Healing,Healing,163
+169,Magic Wand,Healing,Healing,61
+170,Invisibility Cloak,Healing,Healing,70
+171,Battle Axe,Attack,Attack,76
+172,Invisibility Cloak,Attack,Attack,45
+173,Sword of Light,Magic,Magic,128
+174,Ring of Power,Stealth,Stealth,108
+175,Dagger of Betrayal,Attack,Attack,17
+176,Gauntlets of Strength,Stealth,Stealth,102
+177,Shield of Valor,Magic,Magic,51
+178,Bow of the Hunter,Magic,Magic,55
+179,Bow of the Hunter,Defense,Defense,138
+180,Sword of Light,Stealth,Stealth,57
+181,Invisibility Cloak,Attack,Attack,114
+182,Sword of Light,Healing,Healing,177
+183,Gauntlets of Strength,Magic,Magic,157
+184,Battle Axe,Healing,Healing,150
+185,Battle Axe,Defense,Defense,67
+186,Invisibility Cloak,Healing,Healing,41
+187,Invisibility Cloak,Magic,Magic,171
+188,Boots of Speed,Healing,Healing,144
+189,Healing Potion,Stealth,Stealth,94
+190,Magic Wand,Magic,Magic,159
+191,Healing Potion,Stealth,Stealth,167
+192,Helmet of Insight,Attack,Attack,10
+193,Invisibility Cloak,Defense,Defense,50
+194,Robe of Mystique,Attack,Attack,173
+195,Staff of Wisdom,Healing,Healing,81
+196,Boots of Speed,Attack,Attack,129
+197,Battle Axe,Stealth,Stealth,52
+198,Ring of Power,Stealth,Stealth,104
+199,Healing Potion,Healing,Healing,7
+200,Magic Wand,Defense,Defense,106
